@@ -29,7 +29,7 @@ function NewMeetupPage() {
         <title>Add a New Meetup</title>
         <meta
           name="description"
-          content="Add your own meetups and create amazing networking opportunities2."
+          content="Add your own meetups and create amazing networking opportunities."
         />
       </Head>
       <NewMeetupForm onAddMeetup={addMeetupHandler} />
